@@ -20,4 +20,4 @@ You can check my public repositories
 
 Projects and languages I've been working on lately  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=netris&theme=onedark)](https://wakatime.com/@Netris)
+[![Netris' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=netris&theme=onedark)](https://wakatime.com/@Netris)
