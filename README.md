@@ -1,23 +1,21 @@
-# Netris' Github
+# Netris
 
 ## About me
 I'm a student in management IT. I currently don't work as a dev.
 
 ## Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netris89&layout=compact&theme=onedark)](https://github.com/Netris89?tab=repositories)
+![Top Langs](https://githubcard.com/netris89.svg?d=LGHDOpwd)
 
 ## Public repositories
 
 You can check my public repositories 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netris89&repo=core-utils&theme=onedark)](https://github.com/Netris89/core-utils)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netris89&repo=date&theme=onedark)](https://github.com/Netris89/date)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netris89&repo=sleep&theme=onedark)](https://github.com/Netris89/sleep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=netris89&repo=echo&theme=onedark)](https://github.com/Netris89/echo)
+![GitHub Repo Card](https://githubcard.com/Netris89/core-utils.svg?d=kIiLQTvk)
+![GitHub Repo Card](https://githubcard.com/Netris89/date.svg?d=C_UYqCso)
+![GitHub Repo Card](https://githubcard.com/Netris89/echo.svg?d=6XaCp5kI)
+![GitHub Repo Card](https://githubcard.com/Netris89/sleep.svg?d=DPMMBMbE)
 
-## What I've been working on lately
+## What I'm doing on Github
 
-Projects and languages I've been working on lately  
-
-[![Netris' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=netris&theme=onedark)](https://wakatime.com/@Netris)
+![Github Activity](https://githubcard.com/netris89.svg?d=Yk7pLbQI)
