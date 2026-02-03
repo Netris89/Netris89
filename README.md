@@ -11,8 +11,8 @@ I'm a student in management IT. I currently don't work as a dev.
 
 You can check my public repositories 
 
-![repo1](./profile/repo1.svg)
-![repo2](./profile/repo2.svg)
+[![repo1](./profile/repo1.svg)](https://github.com/Netris89/todo-in-problem-tab)
+[![repo2](./profile/repo2.svg)](https://github.com/Netris89/core-utils)
 
 ## What I'm working on
 

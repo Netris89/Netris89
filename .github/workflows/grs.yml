@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=netris&repo=todo-in-problem-tab&theme=dark
+          options: username=${{ github.repository_owner }}&repo=todo-in-problem-tab&theme=dark
           path: profile/repo1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=netris&repo=core-utils&theme=dark
+          options: username=${{ github.repository_owner }}&repo=core-utils&theme=dark
           path: profile/repo2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
