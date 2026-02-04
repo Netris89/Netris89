@@ -28,4 +28,4 @@ A selection of public projects I actively maintain or experiment with:
 
 ## What I'm working on
 
-![Wakatime](./profile/waka.svg)
+[![Wakatime](./profile/waka.svg)](https://wakatime.com/@Netris)
