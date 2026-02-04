@@ -15,17 +15,27 @@ I mainly work with Visual Studio Code as my daily IDE.
 
 ## Languages
 
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Top Languages](./profile/top-langs.svg) -->
+<p align="center">
+  <img src="./profile/top-langs.svg">
+</p>
 
 ## Public repositories
 
 A selection of public projects I actively maintain or experiment with:
 
-[![repo1](./profile/repo1.svg)](https://github.com/Netris89/todo-in-problem-tab)
-
-[![repo2](./profile/repo2.svg)](https://github.com/Netris89/core-utils)
-
+<p align="center">
+    <a href="https://github.com/Netris89/todo-in-problem-tab">
+    <img src="./profile/repo1.svg">
+</p>
+<p align="center">
+    <a href="https://github.com/Netris89/core-utils">
+    <img src="./profile/repo2.svg">
+</p>
 
 ## What I'm working on
 
-[![Wakatime](./profile/waka.svg)](https://wakatime.com/@Netris)
+<p align="center">
+    <a href="https://wakatime.com/@netris">
+    <img src="./profile/waka.svg">
+</p>
