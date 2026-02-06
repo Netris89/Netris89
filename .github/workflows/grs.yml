@@ -44,7 +44,15 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=todo-in-problem-tab&theme=github_dark
-          path: profile/repo1.svg
+          path: profile/todo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate repo card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=SkinTrack&theme=github_dark
+          path: profile/skintrack.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate repo card
@@ -52,7 +60,7 @@ jobs:
         with:
           card: pin
           options: username=${{ github.repository_owner }}&repo=core-utils&theme=github_dark
-          path: profile/repo2.svg
+          path: profile/core-utils.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
 

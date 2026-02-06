@@ -21,9 +21,11 @@ I mainly work with Visual Studio Code as my daily IDE.
 
 A selection of public projects I actively maintain or experiment with:
 
-[![repo1](./profile/repo1.svg)](https://github.com/Netris89/todo-in-problem-tab)
+[![repo](./profile/todo.svg)](https://github.com/Netris89/todo-in-problem-tab)
 
-[![repo2](./profile/repo2.svg)](https://github.com/Netris89/core-utils)
+[![repo](./profile/skintrack.svg)](https://github.com/Netris89/SkinTrack)
+
+[![repo](./profile/core-utils.svg)](https://github.com/Netris89/core-utils)
 
 
 ## What I'm working on
