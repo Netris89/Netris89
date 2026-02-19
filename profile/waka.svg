@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="417.66299999999995"
+            width="370.69800000000004"
             height="8"
             fill="#3178c6"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="417.66299999999995"
+            x="370.69800000000004"
             y="0"
-            width="41.29200000000001"
+            width="93.5115"
             height="8"
             fill="#858585"
           />
@@ -148,7 +148,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 1 hr 13 mins
+        TypeScript - 28 mins
       </text>
     </g>
   
