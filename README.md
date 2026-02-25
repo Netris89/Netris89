@@ -27,6 +27,8 @@ A selection of public projects I actively maintain or experiment with:
 
 [![repo](./profile/core-utils.svg)](https://github.com/Netris89/core-utils)
 
+[![repo](./profile/shopconnect.svg)](https://github.com/Netris89/ShopConnect)
+
 
 ## What I'm working on
 
