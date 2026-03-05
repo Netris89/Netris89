@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="331.35900000000004"
+            width="324.384"
             height="8"
             fill="#083fa1"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="331.35900000000004"
+            x="324.384"
             y="0"
-            width="118.8075"
+            width="124.99199999999999"
             height="8"
             fill="#cb171e"
           />
@@ -148,7 +148,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 20 mins
+        Markdown - 18 mins
       </text>
     </g>
   
