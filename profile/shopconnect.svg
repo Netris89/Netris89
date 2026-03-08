@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">The backend of my integration project.</tspan>
+      <tspan dy="1.2em" x="25">Backend of a school project.</tspan>
     </text>
 
     <g transform="translate(30, 45)">
