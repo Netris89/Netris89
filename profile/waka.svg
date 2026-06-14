@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="394.134"
+            width="387.903"
             height="8"
             fill="#0060ac"
           />
@@ -137,11 +137,21 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="394.134"
+            x="387.903"
             y="0"
-            width="70.866"
+            width="69.75"
             height="8"
             fill="#178600"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="457.653"
+            y="0"
+            width="7.347"
+            height="8"
+            fill="#d1dbe0"
           />
         
       
@@ -156,6 +166,13 @@
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# - 22 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        INI - 2 mins
       </text>
     </g>
   
