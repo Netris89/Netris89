@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="402.9225"
+            width="417.19800000000004"
             height="8"
             fill="#178600"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="402.9225"
+            x="417.19800000000004"
             y="0"
-            width="57.799499999999995"
+            width="41.896499999999996"
             height="8"
             fill="#0060ac"
           />
@@ -147,32 +147,49 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.722"
+            x="459.09450000000004"
             y="0"
-            width="2.325"
+            width="3.4410000000000003"
             height="8"
             fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="462.5355"
+            y="0"
+            width="1.023"
+            height="8"
+            fill="#d1dbe0"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 5 hrs 15 mins
+        C# - 7 hrs 21 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#0060ac" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        XML - 45 mins
+        XML - 44 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 1 min
+        JSON - 3 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        INI - 1 min
       </text>
     </g>
   
