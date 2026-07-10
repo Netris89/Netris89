@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="415.89599999999996"
+            width="402.225"
             height="8"
             fill="#178600"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="415.89599999999996"
+            x="402.225"
             y="0"
-            width="42.593999999999994"
+            width="54.4515"
             height="8"
             fill="#0060ac"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="458.48999999999995"
+            x="456.67650000000003"
             y="0"
-            width="3.8129999999999997"
+            width="4.836"
             height="8"
             fill="#292929"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.30299999999994"
+            x="461.51250000000005"
             y="0"
-            width="1.1159999999999999"
+            width="1.4415"
             height="8"
             fill="#d1dbe0"
           />
@@ -168,7 +168,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 6 hrs 39 mins
+        C# - 5 hrs 2 mins
       </text>
     </g>
   
