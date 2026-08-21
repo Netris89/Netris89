@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,16 +129,50 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="465"
+            width="430.17150000000004"
             height="8"
             fill="#7355dd"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="430.17150000000004"
+            y="0"
+            width="18.1815"
+            height="8"
+            fill="#0060ac"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="448.35300000000007"
+            y="0"
+            width="16.647000000000002"
+            height="8"
+            fill="#292929"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 19 mins
+        C# - 1 hr 34 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        XML - 3 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#292929" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JSON - 3 mins
       </text>
     </g>
   
