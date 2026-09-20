@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="464.6745"
+            width="461.931"
             height="8"
             fill="#7355dd"
           />
@@ -147,7 +147,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 10 mins
+        C# - 1 hr 6 mins
       </text>
     </g>
   
