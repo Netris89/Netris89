@@ -138,16 +138,33 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="461.931"
+            width="444.54"
             height="8"
             fill="#7355dd"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="444.54"
+            y="0"
+            width="20.46"
+            height="8"
+            fill="#0060ac"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 1 hr 6 mins
+        C# - 1 hr 42 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#0060ac" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        XML - 4 mins
       </text>
     </g>
   
