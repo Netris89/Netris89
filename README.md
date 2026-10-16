@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm currently pursuing a Bachelor’s degree in Business Information Systems and have a strong interest in software development, particularly in the context of open source projects.
+I hold a Bachelor’s degree in Business Information Systems and have a strong interest in software development, particularly in the context of open source projects.
 
 My preferred language is **C#**, which I primarily use for application development and problem solving.
 
@@ -29,7 +29,9 @@ A selection of public projects I actively maintain or experiment with:
 
 [![repo](./profile/shopconnect.svg)](https://github.com/Netris89/ShopConnect)
 
+[![repo](.profile/balise.svg)](https://github.com/netris89)
+
 
 ## What I'm working on
 
-[![Wakatime](./profile/waka.svg)](https://wakatime.com/@Netris)
+[![Wakatime](./profile/waka.svg)](https://github.com/Netris89/BALISE)
