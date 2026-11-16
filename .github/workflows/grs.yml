@@ -79,6 +79,14 @@ jobs:
           path: profile/balise.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate repo card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=unix-timeline&theme=github_dark
+          path: profile/unix-timeline.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
 
       - name: Commit cards
         run: |
